@@ -1,1 +1,1 @@
-# Projeto feito nas aulas de flexbox e feito um repositório nas aulas de git e github
+# Projeto feito nas aulas de flexbox e criado um repositório nas aulas de git e github
